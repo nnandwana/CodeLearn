@@ -1,3 +1,5 @@
+package ArrayPrograms;
+
 public class FindMaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
 

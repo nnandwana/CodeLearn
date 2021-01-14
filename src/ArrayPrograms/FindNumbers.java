@@ -1,3 +1,5 @@
+package ArrayPrograms;
+
 //Given an array nums of integers, return how many of them contain an even number of digits.
 //iterate over array.check length of each number.Check if length is even or not.
 public class FindNumbers {
